@@ -38,6 +38,10 @@ Note: it is recommended to go through at most 3 iterations per image and at leas
 (Tested on Linux Mint, 22.4)<br>
 <br>
 
+<h3> References </h3>
+1. Schindelin, J., Arganda-Carreras, I., Frise, E. et al. Fiji: an open-source platform for biological-image analysis. Nat Methods 9, 676–682 (2012)<br>
+2. Dima, A.A., Elliott, J.T., Filliben, J.J. et al. Comparison of segmentation algorithms for fluorescence microscopy images of cells. Cytometry 79A, 545-559 (2011)<br><br>
+
 *Developed by Zafar Nurmatov in April, 2026 at the University of Bonn*
 
 
