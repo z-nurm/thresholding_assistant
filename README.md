@@ -1,5 +1,6 @@
 <h3> Description  </h3>
-An interactive Fiji/ImageJ macro that helps to determine optimal intensity threshold values for multi-channel fluorescence images, which might be needed in subsequent processing. It randomly samples a user-defined number (by default, 5) of .tif images from the input directory, and processes each channel separately. It applies an initial automatic threshold, and displays a side-by-side montage of the original and thresholded channel, and prompts the user to accept or manually adjust the threshold values over another iteration. Accepted threshold values are accumulated across all inspected images and averaged to get a final per-channel threshold value, which is displayed in the session-info window and saved as a .txt file.
+An interactive Fiji/ImageJ macro that helps to determine optimal intensity threshold values for multi-channel fluorescence images, which might be needed in subsequent processing. It randomly samples a user-defined number (by default, 5) of .tif images from the input directory, and processes each channel separately. It applies an initial automatic threshold, and displays a side-by-side montage of the original and thresholded channel, and prompts the user to accept or manually adjust the threshold values over another iteration. Accepted threshold values are accumulated across all inspected images and averaged to get a final per-channel threshold value, which is displayed in the session-info window and saved as a .txt file.<br>
+
 
 <h3> Workflow </h3>
 1. Run the macro via Plugins > Macros > Run, or drag the .ijm file into the Fiji toolbar<br>
@@ -34,4 +35,9 @@ Note: it is recommended to go through at most 3 iterations per image and at leas
 <h3> Requirements </h3>
 1. Fiji (Fiji is just ImageJ) version 1.54p or plain ImageJ<br>
 2. Java version - 21.0.7 (64-bit)<br>
-(Tested on Linux Mint, 22.4)
+(Tested on Linux Mint, 22.4)<br>
+<br>
+
+*Developed by Zafar Nurmatov in April, 2026 at the University of Bonn*
+
+
