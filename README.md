@@ -3,10 +3,10 @@ An interactive Fiji/ImageJ macro that helps to determine optimal intensity thres
 
 <h3> Workflow </h3>
 1. Run the macro via Plugins > Macros > Run, or drag the .ijm file into the Fiji toolbar<br>
-2. In the opening dialog: Select the input directory containing .tif images, enter the total number of channels in the images (e.g. three channels), <br>
+2. In the opening dialog: Select the input directory containing .tif images, enter the total number of channels in the images (e.g. three channels),
 set the sample size (how many randomly selected images to review) and check "Skip Ch1 thresholding" if Channel 1 (e.g. DAPI) should be excluded. <br>
-3. For each sampled image, the macro thresholds channels using Intermodes and displays a montage of the originals alongside the thresholded result. <br>
-A dialog asks whether to iterate: click "Yes" to manually adjust threshold values, or "No" to accept the current result and move on to the next image/conclude <br>
+3. For each sampled image, the macro thresholds channels using Intermodes and displays a montage of the originals alongside the thresholded result.
+A dialog asks whether to iterate: click "Yes" to manually adjust threshold values, or "No" to accept the current result and move on to the next image/conclude 
 the macro. Afterwards, a second dialog asks whether to continue to the next image ("Yes") or stop and finalize ("No") the macro.<br>
 4. Once stopped, the macro computes the mean threshold per channel across all accepted estimates, prints them, and saves a session log to the parent directory.
 
