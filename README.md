@@ -31,7 +31,6 @@ the macro. Afterwards, a second dialog asks whether to continue to the next imag
 <br>
 Note: it is recommended to go through at most 3 iterations per image and at least 3 different images in total. <br>
 
-
 <h3> Requirements </h3>
 1. Fiji (Fiji is just ImageJ) version 1.54p or plain ImageJ<br>
 2. Java version - 21.0.7 (64-bit)<br>
