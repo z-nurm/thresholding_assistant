@@ -1,5 +1,5 @@
 <img width="1834" height="951" alt="Screenshot from 2026-05-29 15-33-32" src="https://github.com/user-attachments/assets/55b34829-ad40-4607-b0b1-5a547450ac79" />
-
+[![SWH](https://archive.softwareheritage.org/badge/swh:1:dir:2daf7c8f2be666d6fa53383f6ed3574517aec8a3/)](https://archive.softwareheritage.org/swh:1:dir:2daf7c8f2be666d6fa53383f6ed3574517aec8a3;origin=https://github.com/z-nurm/thresholding_assistant;visit=swh:1:snp:8e8f0f7417baf1bafca1233baf4df86c4058f879;anchor=swh:1:rev:1cb4c7b22b854afcb49a5c395c5aeb4fd6bcda4f)
 
 <h3> Description  </h3>
 An interactive Fiji/ImageJ macro that helps to determine optimal intensity threshold values for multi-channel fluorescence images, which might be needed in subsequent processing. It randomly samples a user-defined number (by default, 5) of .tif images from the input directory, and processes each channel separately. It applies an initial automatic threshold, and displays a side-by-side montage of the original and thresholded channel, and prompts the user to accept or manually adjust the threshold values over another iteration. Accepted threshold values are accumulated across all inspected images and averaged to get a final per-channel threshold value, which is displayed in the session-info window and saved as a .txt file.<br><br>
