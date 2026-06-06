@@ -1,4 +1,4 @@
-<img width="1834" height="951" alt="Screenshot from 2026-05-29 15-33-32" src="https://github.com/user-attachments/assets/55b34829-ad40-4607-b0b1-5a547450ac79" />
+<img width="960" height="540" alt="Macro Flowchart" src="https://github.com/user-attachments/assets/69462d04-6262-4a21-9e31-bddbb28e5fa9" />
 
 [![SWH](https://archive.softwareheritage.org/badge/swh:1:dir:2daf7c8f2be666d6fa53383f6ed3574517aec8a3/)](https://archive.softwareheritage.org/swh:1:dir:2daf7c8f2be666d6fa53383f6ed3574517aec8a3;origin=https://github.com/z-nurm/thresholding_assistant;visit=swh:1:snp:8e8f0f7417baf1bafca1233baf4df86c4058f879;anchor=swh:1:rev:1cb4c7b22b854afcb49a5c395c5aeb4fd6bcda4f)
 
